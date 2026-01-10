@@ -1,0 +1,35 @@
+baseURL = 'https://bruno-ah-um.github.io/'
+defaultContentLanguage = "en"
+languageCode = 'en-us'
+title = 'Bruno Ah Um'
+theme = 'dream'
+
+[pagination]
+  pagerSize = 10
+
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
+
+author = "Bruno Caballero"
+description = "Lead Software Engineer | JVM Specialist | Qiskit Advocate"
+headerTitle = "Bruno Caballero"
+motto = "Bridging language runtimes, firmware, and hardware"
+avatar = "img/avatar.png"
+
+siteStartYear = 2026
+
+# Options
+showTableOfContents = true
+showPrevNextPost = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    noClasses = false
+    style = "monokai"
