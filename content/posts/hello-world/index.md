@@ -20,4 +20,4 @@ The goal of this blog is simple:
 - document learnings and experiments  
 - share practical insights from real-world systems  
 
-More technical articles coming soon.
+More technical articles coming soon!
