@@ -1,8 +1,7 @@
 ---
 title: "Hello World"
-date: 2026-01-10
-author: "Bruno Caballero"
-tags: ["introduction", "technology", "software"]
+date: 2025-10-10
+tags: ["introduction"]
 description: "Welcome to my technical blog"
 cover: helloworld.png
 ---

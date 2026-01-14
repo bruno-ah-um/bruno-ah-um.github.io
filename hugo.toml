@@ -14,7 +14,7 @@ darkTheme = "forest"
 author = "Bruno Caballero"
 description = "Lead Software Engineer | JVM Specialist | Qiskit Advocate"
 headerTitle = "Bruno Caballero"
-motto = "JVM Runtimes, Compilers & Low-Level Systems"
+motto = "JVM Runtimes, Compilers & Quantum Computing"
 avatar = "img/avatar.png"
 
 siteStartYear = 2026
@@ -31,5 +31,5 @@ showPrevNextPost = true
     codeFences = true
     guessSyntax = true
     lineNos = true
-    noClasses = false
+    noClasses = true
     style = "monokai"
