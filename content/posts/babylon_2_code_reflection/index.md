@@ -1,7 +1,7 @@
 ---
 title: "OpenJDK Babylon Series: #2 Code Reflection in Java"
 date: 2026-01-21
-tags: ["Java", "OpenJDK Babylon" ]
+tags: ["Java", "OpenJDK Babylon", "Code Reflection" ]
 description: "Explaining how Java methods can be represented, inspected, and transformed as structured intermediate code models."
 cover: plug.png
 ---

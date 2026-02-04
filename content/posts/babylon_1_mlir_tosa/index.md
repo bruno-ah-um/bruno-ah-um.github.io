@@ -1,7 +1,7 @@
 ---
 title: "OpenJDK Babylon Series: #1 From High-Level Tensor Operations to MLIR TOSA"
 date: 2026-01-14
-tags: ["OpenJDK Babylon", "MLIR", "TOSA"]
+tags: [ "Java", "OpenJDK Babylon", "MLIR", "TOSA"]
 description: "targeting MLIR TOSA enables efficient lowering of Babylon’s Java tensor code to native hardware."
 cover: mlir.png
 ---
