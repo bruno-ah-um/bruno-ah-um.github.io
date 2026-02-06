@@ -1,12 +1,12 @@
 ---
 title: "Are we quantum yet?"
-date: 2026-02-06
+date: 2026-02-05
 tags: [ "Quantum Computing", "MLIR" ]
 description: "A reality check on quantum computing progress through the lens of early fault-tolerant systems and modern computer science challenges."
 cover: circle.jpg
 ---
 
-![plug](circle.jpg)  
+![circle](circle.jpg)
 *Photo by [Dynamic Wang](https://unsplash.com/de/@dynamicwang) on [Unsplash](https://unsplash.com/de/fotos/hintergrundmuster-vNCBkSX3Nbo)*
 
 Quantum computing has been “five to ten years away” for about two decades now. Yet every few months, a new paper, breakthrough, or record-breaking qubit announcement rekindles the same question:

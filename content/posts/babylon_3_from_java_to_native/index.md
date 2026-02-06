@@ -6,7 +6,7 @@ description: "This post demonstrates how Java tensor operations can be automatic
 cover: mountain.jpg
 ---
 
-![plug](mountain.jpg)
+![Mountain](mountain.jpg)
 *Photo by [Mads Schmidt Rasmussen](https://unsplash.com/de/@mvds) on [Unsplash](https://unsplash.com/de/fotos/hintergrundmuster-vNCBkSX3Nbo)*
 
       
