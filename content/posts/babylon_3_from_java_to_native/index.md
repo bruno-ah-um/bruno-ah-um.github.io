@@ -2,12 +2,13 @@
 title: "OpenJDK Babylon Series #3: From Java to Native"
 date: 2026-02-04
 tags: [ "OpenJDK Babylon", "Java", "MLIR", "TOSA", "code-reflection", "native-compilation"]
-description: "Explaining how Java methods can be represented, inspected, and transformed as structured intermediate code models."
+description: "This post demonstrates how Java tensor operations can be automatically compiled to optimized native code via Project Babylon’s Code Reflection API and MLIR’s TOSA dialect, achieving significant speedups without manual boilerplate."
 cover: mountain.jpg
 ---
 
 ![plug](mountain.jpg)
-Foto von <a href="https://unsplash.com/de/@mvds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mads Schmidt Rasmussen</a> auf <a href="https://unsplash.com/de/fotos/eisbedeckter-berg-bei-tag-xfngap_DToE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+*Photo by [Mads Schmidt Rasmussen](https://unsplash.com/de/@mvds) on [Unsplash](https://unsplash.com/de/fotos/hintergrundmuster-vNCBkSX3Nbo)*
+
       
 In this post, we demonstrate how Java tensor operations can be compiled automatically to optimized native code. Using Project Babylon's Code Reflection API and MLIR's TOSA dialect, high-level Java methods are transformed into MLIR, lowered to LLVM, and compiled into shared libraries. All without manual boilerplate or marshalling. We cover the full pipeline: Java → Code Model → TOSA MLIR → LLVM → Native Library → Java invocation.
 
