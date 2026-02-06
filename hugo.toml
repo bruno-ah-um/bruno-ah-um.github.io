@@ -23,6 +23,9 @@ siteStartYear = 2026
 showTableOfContents = true
 showPrevNextPost = true
 
+[params.advanced]
+customCSS = ["css/custom.css"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
