@@ -1,8 +1,9 @@
 ---
-title: "Are we quantum yet?"
+title: "Are we quantum yet? The State of Practical Quantum Computing"
 date: 2026-02-05
 tags: [ "Quantum Computing", "MLIR" ]
-description: "A reality check on quantum computing progress through the lens of early fault-tolerant systems and modern computer science challenges."
+description: "Quantum computing is no longer primarily limited by physics breakthroughs.
+The real bottlenecks are increasingly in software, tooling, and systems integration."
 cover: circle.jpg
 ---
 
@@ -13,7 +14,7 @@ Quantum computing has been “five to ten years away” for about two decades no
 
 👉 **Are we quantum yet?**
 
-If you’re familiar with the Rust ecosystem, you might recognize the famous “Are We Rust Yet?” tracker — a community-driven effort to measure whether Rust was ready to replace existing tooling in real-world production scenarios. The question wasn’t just about language features, but about ecosystem maturity, tooling, and practical usability.
+If you’re familiar with the Rust ecosystem, you might recognize [Are we web yet?](https://www.arewewebyet.org/) and [Are we GUI yet?](https://areweguiyet.com/) trackers — a community-driven effort to measure whether Rust was ready to replace existing tooling in real-world production scenarios. The question wasn’t just about language features, but about ecosystem maturity, tooling, and practical usability.
 
 Quantum computing sits in a surprisingly similar place today. The theory is powerful, the potential is enormous, but practical adoption still feels just out of reach.
 
