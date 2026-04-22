@@ -2,7 +2,7 @@
 title: "My First Contributions to Qiskit and Qrisp"
 date: 2026-04-20
 tags: ["Quantum Computing", "Qiskit", "Qrisp", "Open Source"]
-description: "My first compiler and transpiler infrastructure contributions to Qiskit and Qrisp open source projects."
+description: "My first contributions to Qiskit and Qrisp open source projects."
 cover: qrisp_logo.png
 ---
 
